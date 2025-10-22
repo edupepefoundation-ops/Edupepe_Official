@@ -1,0 +1,1 @@
+export default function Terms(){ return <div style={{padding:'2rem'}}>Terms placeholder.</div> }

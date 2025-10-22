@@ -1,0 +1,1 @@
+export default function Privacy(){ return <div style={{padding:'2rem'}}>Privacy policy placeholder.</div> }

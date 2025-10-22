@@ -1,0 +1,1 @@
+export default function Join(){ return <div style={{padding:'2rem'}}>Join page placeholder.</div> }
